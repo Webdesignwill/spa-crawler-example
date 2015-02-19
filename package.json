@@ -1,0 +1,22 @@
+{
+  "name": "web-filter-will",
+  "description": "Prototype search filter to demonstrate push states",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "~1.2.0",
+    "debug": "~0.7.4",
+    "express": "~4.1.1",
+    "mongoose": "~3.8.9",
+    "phantom": "^0.7.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "keywords": [
+    "Search",
+    "Search filter",
+    "Webdesignwill",
+    "Webfilterwill"
+  ],
+  "author": "Will-Falkowski"
+}
